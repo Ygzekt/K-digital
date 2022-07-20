@@ -1,0 +1,17 @@
+double pi_value = 3.1415;
+	char Mylnitial = 'L';
+
+	printf("내 나이는 %d입니다.\n", age);
+	int nowYear = 2022;
+	printf("내가 태어난 연도는 %d입니다.\n", nowYear + 1 - age);
+	int 반지름 = 4;
+	int 파이 = 3.14;
+	printf("원의 넓이는 %d입니다.", 반지름 * 반지름 * 파이);
+	printf("원의 둘레는 %d입니다.\n", 2 * 반지름 * 파이);
+
+라인피드 = 엔터키
+scanf_s???
+rewind???
+	c = getchar();???
+gets;???
+디트코딩!-폰트
