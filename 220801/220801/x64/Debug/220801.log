@@ -1,0 +1,12 @@
+﻿  뱀.c
+C:\Users\KB\Desktop\노민영\220801\220801\뱀.c(50,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\KB\Desktop\노민영\220801\220801\뱀.c(84,12): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\KB\Desktop\노민영\220801\220801\뱀.c(104,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\KB\Desktop\노민영\220801\220801\뱀.c(105,19): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\KB\Desktop\노민영\220801\220801\뱀.c(122,12): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\KB\Desktop\노민영\220801\220801\뱀.c(138,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\KB\Desktop\노민영\220801\220801\뱀.c(198,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\KB\Desktop\노민영\220801\220801\뱀.c(201,23): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\KB\Desktop\노민영\220801\220801\뱀.c(222,12): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\KB\Desktop\노민영\220801\220801\뱀.c(223,11): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  220801.vcxproj -> C:\Users\KB\Desktop\노민영\220801\x64\Debug\220801.exe
